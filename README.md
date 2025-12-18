@@ -2,8 +2,6 @@
 
 This repository contains a Python library to compute the performance of a turbojet engine with bypass (turbo-fan) using standard thermodynamic assumptions.
 
-It was developed as part of a turbomachinery course project by Nathan AZEDO.
-
 ## Features
 
 - Compute net and component thrust (primary and secondary flows)
